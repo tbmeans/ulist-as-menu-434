@@ -1,0 +1,34 @@
+{
+  "name": "ulist-as-menu-434",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React component to render menu structure from unordered list elements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tbmeans/ulist-as-menu-434.git"
+  },
+  "keywords": [
+    "unordered list",
+    "menus",
+    "React component",
+    "ul"
+  ],
+  "author": "Timothy B. Means",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbmeans/ulist-as-menu-434/issues"
+  },
+  "homepage": "https://github.com/tbmeans/ulist-as-menu-434",
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
